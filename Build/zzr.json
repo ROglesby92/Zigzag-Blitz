@@ -1,0 +1,13 @@
+{
+"companyName": "ROglesby",
+"productName": "ZigZagger",
+"dataUrl": "zzr.data.unityweb",
+"wasmCodeUrl": "zzr.wasm.code.unityweb",
+"wasmFrameworkUrl": "zzr.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#598181",
+"cacheControl": {"default": "must-revalidate"}
+}
