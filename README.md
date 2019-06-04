@@ -8,6 +8,12 @@ Full online game WebGL version of Zigzag Blitz
 ZigzagBlitz
 Play one of 6 vehicles in the game
 
+# Click to start
+
+# Click to change direction (Will change direction automatically left right or forward based on tile)
+
+# Press Space bar to use ability
+
 Speed Bike - speed boost
 
 Hoverboard - jump
@@ -15,11 +21,7 @@ Hoverboard - jump
 and more
 
 
-Press screen to start
 
-Press screen to change direction
-
-Press Space bar to use ability
 
 
 Collecting speed buffs also increases your point gain, as does using using your ability for some vehicles
