@@ -9,16 +9,18 @@
 
 
 ### Pick a character, pick a vehicle (Unlock them if you havent already)
-
+###(Daily reward is for mobile users only)
 
 
 ### Once the game starts..
 
-### Click to change direction (Will change direction automatically left right or forward based on tile)
+### Mouse click on screen to change direction (Will change direction automatically)
 
 ### Press Space bar to use ability
 
-### Daily reward is for mobile users only
+
+
+
 
 
 
