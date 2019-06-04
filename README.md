@@ -1,5 +1,5 @@
 ### Zigzag-Blitz ( Full version )
-
+### (Use of google chrome suggested)
 
 
 # https://roglesby92.github.io/Zigzag-Blitz// <-- Link to game demo online through WEBGL
