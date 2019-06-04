@@ -2,26 +2,25 @@
 
 
 
-https://roglesby92.github.io/Zigzag-Blitz// <-- Link to game demo online through WEBGL
+# https://roglesby92.github.io/Zigzag-Blitz// <-- Link to game demo online through WEBGL
 
 Full online game WebGL version of Zigzag Blitz
 ZigzagBlitz
 Play one of 6 vehicles in the game
 
-# Click to start
+## Click to start
 
-# Click to change direction (Will change direction automatically left right or forward based on tile)
+## Click to change direction (Will change direction automatically left right or forward based on tile)
 
-# Press Space bar to use ability
+## Press Space bar to use ability
 
-Speed Bike - speed boost
-
-Hoverboard - jump
-
-and more
+### Daily reward is for mobile users only
 
 
 
+
+
+# Links to app store downloads
 
 
 Collecting speed buffs also increases your point gain, as does using using your ability for some vehicles
