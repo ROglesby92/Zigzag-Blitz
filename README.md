@@ -8,15 +8,15 @@
 ## Some Instructions
 
 
-### Pick a character, pick a vehicle (Unlock them if you havent already)
-###(Daily reward is for mobile users only)
+- Pick a character, pick a vehicle (Unlock them if you havent already)
+-  (Daily reward is for mobile users only)
 
 
-### Once the game starts..
+## Once the game starts..
 
-### Mouse click on screen to change direction (Will change direction automatically)
+ Mouse click on screen to change direction (Will change direction automatically)
 
-### Press Space bar to use ability
+ Press Space bar to use ability
 
 
 
