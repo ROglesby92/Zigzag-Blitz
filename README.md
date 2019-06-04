@@ -1,18 +1,22 @@
-# Zigzag-Blitz
+### Zigzag-Blitz ( Full version )
 
 
 
 # https://roglesby92.github.io/Zigzag-Blitz// <-- Link to game demo online through WEBGL
 
-Full online game WebGL version of Zigzag Blitz
-ZigzagBlitz
-Play one of 6 vehicles in the game
 
-## Click to start
+## Some Instructions
 
-## Click to change direction (Will change direction automatically left right or forward based on tile)
 
-## Press Space bar to use ability
+### Pick a character, pick a vehicle (Unlock them if you havent already)
+
+
+
+### Once the game starts..
+
+### Click to change direction (Will change direction automatically left right or forward based on tile)
+
+### Press Space bar to use ability
 
 ### Daily reward is for mobile users only
 
